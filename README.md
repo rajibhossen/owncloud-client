@@ -1,4 +1,4 @@
-# owncloud-bash
+# owncloud-client
 Bash script and python script for owncloud download and upload of directory and files
 
 Usage:
