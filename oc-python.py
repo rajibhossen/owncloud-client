@@ -7,7 +7,7 @@ import sqlite3 as database
 from os.path import basename, isfile, join, normpath
 import argparse
 
-SERVER = 'https://datacloud.ipvisionsoft.com'
+SERVER = 'https://example.owncloud.com'
 
 def initialize_db(db_file):
     connection = database.connect(db_file)
